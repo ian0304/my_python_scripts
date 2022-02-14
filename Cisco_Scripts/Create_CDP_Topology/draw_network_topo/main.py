@@ -3,7 +3,7 @@ from nornir_scrapli.tasks import send_command
 from draw_network_graph import draw_topology
 
 def cdp_to_dict(cdp_list):
-    # get cdp result from Nornir_Scrapli
+    #transfer cdp string list to {(localdevice: localinterface), (remotedevice:remoteinterface)} format
     import re
     result_dict = {}
     topology_dict = {}
@@ -21,6 +21,7 @@ def cdp_to_dict(cdp_list):
     return topology_dict 
 
 def main():
+    # get cdp result from Nornir_Scrapli
     nr = InitNornir(config_file="config.yaml")
     result = nr.run(task=send_command, command="show cdp neighbor | begin Device ID")
     #Change cdp result from string to list
