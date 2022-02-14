@@ -17,7 +17,7 @@ def cdp_to_dict(cdp_list):
             result_dict[(loc_dev_result.group(), ''.join(item[1].split()))] = item[0].split('.')[0], ''.join((item[2]).split()[-2:])
     for key, value in result_dict.items():
         if value in topology_dict.keys():
-            break
+            pass
         topology_dict[key] = value
 
     return topology_dict 
