@@ -1,7 +1,5 @@
 ---
-R2-4_group:
-    password: 'cisco123'
+group:
+    password: ''
 
-R5-7_group:
-    password: 'cisco123'
 

@@ -1,9 +1,8 @@
 ---
-username: cisco
+username: 
 platform: 'ios'
 connection_options:
-  scrapli:
-    platform: cisco_iosxe
+  netmiko:
     extras:
       auth_strict_key: False
       transport: system

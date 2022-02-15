@@ -2,31 +2,31 @@
 R2:
     hostname: 192.168.40.2
     groups:
-        - R2-4_group
+        - group
 
 R3:
     hostname: 192.168.40.3
     groups:
-        - R2-4_group
+        - group
 
 R4:
     hostname: 192.168.40.4
     groups:
-        - R2-4_group
+        - group
 
 R5:
     hostname: 192.168.40.5
     groups:
-        - R5-7_group
+        - group
 
 
 R6:
     hostname: 192.168.40.6
     groups:
-        - R5-7_group
+        - group
 
 
 R7:
     hostname: 192.168.40.7
     groups:
-        - R5-7_group
+        - group

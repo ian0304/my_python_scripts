@@ -17,6 +17,7 @@ styles = {
         "fontcolor": "white",
         "bgcolor": "#3F3F3F",
         "rankdir": "BT",
+        "ranksep": "1"
     },
     "nodes": {
         "fontname": "Helvetica",

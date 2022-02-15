@@ -1,6 +1,4 @@
-from nornir import InitNornir
-from nornir_netmiko.tasks import netmiko_send_command
-from nornir_utils.plugins.functions import print_result
+
 from draw_network_graph import draw_topology
 
 def cdp_to_dict(cdp_list):
@@ -23,8 +21,14 @@ def cdp_to_dict(cdp_list):
     return topology_dict 
 
 def main():
+    from nornir import InitNornir
+    from nornir_netmiko.tasks import netmiko_send_command
+    from nornir_utils.plugins.functions import print_result
+    from getpass import getpass
     # get cdp result from Nornir_Scrapli
     nr = InitNornir(config_file="config.yaml")
+    nr.inventory.defaults.username = str(input('Your Username: '))
+    nr.inventory.defaults.password = str(getpass('Your Password: '))
     result = nr.run(netmiko_send_command, command_string="show cdp neighbor | begin Device ID")
     #Change cdp result from string to list
     result_list = []
