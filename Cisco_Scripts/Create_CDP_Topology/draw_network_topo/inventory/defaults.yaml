@@ -1,5 +1,6 @@
 ---
 username: 
+password: ''
 platform: 'ios'
 connection_options:
   netmiko:

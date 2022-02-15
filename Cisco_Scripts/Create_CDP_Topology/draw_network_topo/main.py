@@ -25,10 +25,38 @@ def main():
     from nornir_netmiko.tasks import netmiko_send_command
     from nornir_utils.plugins.functions import print_result
     from getpass import getpass
+    from nornir.core.inventory import Hosts 
+    import yaml
+
+    import sys
+    from pprint import pp
+    try:
+        import orionsdk
+    except ImportError:
+        print("Module orionsdk needs to be installed")
+        print("pip install orionsdk")
+        sys.exit()
+
+    #SwicClient("ServerIP/Name", "Username", "Password")
+    swis = orionsdk.SwisClient("192.168.21.39", "test", "Password01!!")
+    Comments = str(input('Which site your want to check (site_code): ')).upper()
+    #Get Hostname/ IP / information  from Orion.Nodes filter by Comments
+    NodeID = tuple((swis.query(f"SELECT NodeID FROM Orion.NodesCustomProperties WHERE Comments='{Comments}'")).values())[0]
+    NodeID_Items = tuple(i['NodeID'] for i in NodeID)
+    Host_IP_lst = tuple((swis.query(f"SELECT DisplayName, IP FROM Orion.Nodes WHERE NodeID IN {NodeID_Items} ")).values())[0]
+    
+    to_yaml = {}
+    for i in Host_IP_lst:
+        to_yaml[i['DisplayName']] = {'hostname':i['IP']}
+        
+    with open('inventory/hosts.yaml', 'w') as f:
+        yaml.dump(to_yaml, f, default_flow_style=False)
+
     # get cdp result from Nornir_Scrapli
     nr = InitNornir(config_file="config.yaml")
     nr.inventory.defaults.username = str(input('Your Username: '))
     nr.inventory.defaults.password = str(getpass('Your Password: '))
+
     result = nr.run(netmiko_send_command, command_string="show cdp neighbor | begin Device ID")
     #Change cdp result from string to list
     result_list = []
