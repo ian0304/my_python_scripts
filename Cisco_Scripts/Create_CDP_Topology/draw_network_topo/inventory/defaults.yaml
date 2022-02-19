@@ -3,7 +3,7 @@ username:
 password: ''
 platform: 'ios'
 connection_options:
-  netmiko:
+  scrapli:
     extras:
       auth_strict_key: False
       transport: system

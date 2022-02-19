@@ -16,7 +16,8 @@ def cdp_to_dict(cdp_list):
     for key, value in result_dict.items():
         if value in topology_dict.keys():
             pass
-        topology_dict[key] = value
+        else:
+            topology_dict[key] = value
 
     return topology_dict 
 
