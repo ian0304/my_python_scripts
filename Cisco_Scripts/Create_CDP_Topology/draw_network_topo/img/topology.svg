@@ -10,20 +10,28 @@
 <title>%3</title>
 <polygon fill="#3f3f3f" stroke="transparent" points="-4,4 -4,-263 849.84,-263 849.84,4 -4,4"/>
 <text text-anchor="middle" x="422.92" y="-9.2" font-family="Times,serif" font-size="16.00" fill="white">Network Map</text>
-<!-- R7 -->
+<!-- R5 -->
 <g id="node1" class="node">
-<title>R7</title>
+<title>R5</title>
 <polygon fill="#006699" stroke="#006699" points="188.34,-259 111.34,-259 111.34,-186 188.34,-186 188.34,-259"/>
-<text text-anchor="middle" x="149.84" y="-218.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R7</text>
+<text text-anchor="middle" x="149.84" y="-218.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R5</text>
 </g>
 <!-- R2 -->
 <g id="node2" class="node">
 <title>R2</title>
-<polygon fill="#006699" stroke="#006699" points="741.34,-99 664.34,-99 664.34,-26 741.34,-26 741.34,-99"/>
-<text text-anchor="middle" x="702.84" y="-58.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R2</text>
+<polygon fill="#006699" stroke="#006699" points="127.34,-99 50.34,-99 50.34,-26 127.34,-26 127.34,-99"/>
+<text text-anchor="middle" x="88.84" y="-58.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R2</text>
+</g>
+<!-- R2&#45;&#45;R5 -->
+<g id="edge2" class="edge">
+<title>R2&#45;&#45;R5</title>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M50,-91.06C31.64,-107.63 16.06,-129.43 27.84,-150 45.6,-180.99 82.59,-199.85 111.2,-210.36"/>
+<text text-anchor="middle" x="77.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="86.2" y="-199.16" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
+<text text-anchor="middle" x="25" y="-79.86" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
 </g>
 <!-- R6 -->
-<g id="node3" class="node">
+<g id="node5" class="node">
 <title>R6</title>
 <polygon fill="#006699" stroke="#006699" points="434.34,-259 357.34,-259 357.34,-186 434.34,-186 434.34,-259"/>
 <text text-anchor="middle" x="395.84" y="-218.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R6</text>
@@ -31,38 +39,38 @@
 <!-- R2&#45;&#45;R6 -->
 <g id="edge1" class="edge">
 <title>R2&#45;&#45;R6</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M671.91,-99.15C653.53,-119.62 631.59,-142.68 619.84,-150 560.78,-186.82 481.03,-206.31 434.35,-215.22"/>
-<text text-anchor="middle" x="686.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="459.35" y="-204.02" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
-<text text-anchor="middle" x="646.91" y="-102.95" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M111.78,-99.37C124.6,-116.87 142,-136.91 161.84,-150 223.01,-190.35 307.99,-208.79 356.92,-216.52"/>
+<text text-anchor="middle" x="211.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="331.92" y="-205.32" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+<text text-anchor="middle" x="86.78" y="-103.17" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
 </g>
-<!-- R5 -->
-<g id="node4" class="node">
-<title>R5</title>
+<!-- R7 -->
+<g id="node3" class="node">
+<title>R7</title>
 <polygon fill="#006699" stroke="#006699" points="680.34,-259 603.34,-259 603.34,-186 680.34,-186 680.34,-259"/>
-<text text-anchor="middle" x="641.84" y="-218.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R5</text>
-</g>
-<!-- R2&#45;&#45;R5 -->
-<g id="edge2" class="edge">
-<title>R2&#45;&#45;R5</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M734.66,-99.19C744.77,-114.93 751.36,-133.54 742.84,-150 729.77,-175.28 703.17,-193.55 680.55,-205.29"/>
-<text text-anchor="middle" x="795.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="705.55" y="-194.09" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
-<text text-anchor="middle" x="709.66" y="-102.99" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
+<text text-anchor="middle" x="641.84" y="-218.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R7</text>
 </g>
 <!-- R3 -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>R3</title>
 <polygon fill="#006699" stroke="#006699" points="434.34,-99 357.34,-99 357.34,-26 434.34,-26 434.34,-99"/>
 <text text-anchor="middle" x="395.84" y="-58.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R3</text>
 </g>
+<!-- R3&#45;&#45;R5 -->
+<g id="edge5" class="edge">
+<title>R3&#45;&#45;R5</title>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M357.14,-88.36C311.13,-117.91 234.82,-166.92 188.73,-196.52"/>
+<text text-anchor="middle" x="330.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="213.73" y="-185.32" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+<text text-anchor="middle" x="332.14" y="-77.16" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+</g>
 <!-- R3&#45;&#45;R7 -->
 <g id="edge4" class="edge">
 <title>R3&#45;&#45;R7</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M357.14,-88.36C311.13,-117.91 234.82,-166.92 188.73,-196.52"/>
-<text text-anchor="middle" x="329.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="213.73" y="-185.32" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
-<text text-anchor="middle" x="332.14" y="-77.16" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/3</text>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M434.4,-91.57C458.61,-108.9 490.67,-131.31 519.84,-150 547.24,-167.54 578.96,-186.08 603.19,-199.88"/>
+<text text-anchor="middle" x="569.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="578.19" y="-188.68" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+<text text-anchor="middle" x="459.4" y="-80.37" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/3</text>
 </g>
 <!-- R3&#45;&#45;R6 -->
 <g id="edge3" class="edge">
@@ -72,35 +80,27 @@
 <text text-anchor="middle" x="370.84" y="-174.59" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
 <text text-anchor="middle" x="370.84" y="-103.15" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
 </g>
-<!-- R3&#45;&#45;R5 -->
-<g id="edge5" class="edge">
-<title>R3&#45;&#45;R5</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M434.4,-91.57C458.61,-108.9 490.67,-131.31 519.84,-150 547.24,-167.54 578.96,-186.08 603.19,-199.88"/>
-<text text-anchor="middle" x="569.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="578.19" y="-188.68" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
-<text text-anchor="middle" x="459.4" y="-80.37" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
-</g>
 <!-- R4 -->
 <g id="node6" class="node">
 <title>R4</title>
-<polygon fill="#006699" stroke="#006699" points="127.34,-99 50.34,-99 50.34,-26 127.34,-26 127.34,-99"/>
-<text text-anchor="middle" x="88.84" y="-58.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R4</text>
+<polygon fill="#006699" stroke="#006699" points="741.34,-99 664.34,-99 664.34,-26 741.34,-26 741.34,-99"/>
+<text text-anchor="middle" x="702.84" y="-58.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="white">R4</text>
 </g>
 <!-- R4&#45;&#45;R7 -->
 <g id="edge7" class="edge">
 <title>R4&#45;&#45;R7</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M50,-91.06C31.64,-107.63 16.06,-129.43 27.84,-150 45.6,-180.99 82.59,-199.85 111.2,-210.36"/>
-<text text-anchor="middle" x="77.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="86.2" y="-199.16" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
-<text text-anchor="middle" x="25" y="-79.86" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M734.66,-99.19C744.77,-114.93 751.36,-133.54 742.84,-150 729.77,-175.28 703.17,-193.55 680.55,-205.29"/>
+<text text-anchor="middle" x="795.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="705.55" y="-194.09" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
+<text text-anchor="middle" x="709.66" y="-102.99" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/1</text>
 </g>
 <!-- R4&#45;&#45;R6 -->
 <g id="edge6" class="edge">
 <title>R4&#45;&#45;R6</title>
-<path fill="none" stroke="green" stroke-dasharray="5,2" d="M111.36,-99.39C123.98,-116.89 141.15,-136.93 160.84,-150 222.31,-190.8 308.02,-209.11 357.14,-216.69"/>
-<text text-anchor="middle" x="210.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text text-anchor="middle" x="332.14" y="-205.49" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/3</text>
-<text text-anchor="middle" x="86.36" y="-103.19" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
+<path fill="none" stroke="green" stroke-dasharray="5,2" d="M671.91,-99.15C653.53,-119.62 631.59,-142.68 619.84,-150 560.78,-186.82 481.03,-206.31 434.35,-215.22"/>
+<text text-anchor="middle" x="686.84" y="-138.8" font-family="Courier,monospace" font-size="14.00" fill="white"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text text-anchor="middle" x="459.35" y="-204.02" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/3</text>
+<text text-anchor="middle" x="646.91" y="-102.95" font-family="Courier,monospace" font-size="14.00" fill="white">Gig0/2</text>
 </g>
 </g>
 </svg>
