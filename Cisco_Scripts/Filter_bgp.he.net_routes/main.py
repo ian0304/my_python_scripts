@@ -19,6 +19,8 @@ while bool(net) == True:
     for b in net:
         if a.supernet_of(b):
             new_net.remove(b)
+        elif b.supernet_of(a):
+            new_net.remove(a)
 
 sorted_net = sorted(new_net)
 write_file = []
