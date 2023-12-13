@@ -4,7 +4,7 @@ from seleniumwire import webdriver  # Import from seleniumwire
 driver = webdriver.Chrome()
 
 # Go to the Google home page
-driver.get('https://www.baidu.com')
+driver.get('https://www.163.com')
 
 #create a file to save URL
 with open('url.txt', 'w') as f:
