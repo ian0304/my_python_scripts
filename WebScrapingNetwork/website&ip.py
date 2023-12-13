@@ -7,7 +7,7 @@ import re
 # Create a new instance of the Chrome driver
 driver = webdriver.Chrome()
 
-# Go to the Google home page
+# Go to the webpage
 driver.get('https://www.163.com')
 
 data = {}
