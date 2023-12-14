@@ -1,14 +1,21 @@
-from seleniumwire import webdriver  # Import from seleniumwire
+from seleniumwire import webdriver
 import pandas as pd
 import dns.resolver
 import re
+import easygui
 
+# Show an input box for the user to enter the URL
+url = easygui.enterbox(msg='Enter the URL:', title='URL Input')
+
+# Check if the URL starts with 'https://' and add it if not
+if not url.startswith('https://'):
+    url = 'https://' + url
 
 # Create a new instance of the Chrome driver
 driver = webdriver.Chrome()
 
 # Go to the webpage
-driver.get('https://www.163.com')
+driver.get(url)
 
 data = {}
 
@@ -23,9 +30,9 @@ for request in driver.requests:
             ips+=(ipval.to_text() + '\n')
         data[website.group(1)]=ips
 
-# convert dictionary to a pandas DataFrame
+# Convert dictionary to a pandas DataFrame
 web_ip = pd.DataFrame(list(data.items()), columns=['Website', 'IP'])
 web_ip['IP'] = web_ip['IP'].astype(str)
-# write the weburl&ip to an Excel file
+
+# Write the weburl&ip to an Excel file
 web_ip.to_excel('website&ip.xlsx', index=False)
-        
