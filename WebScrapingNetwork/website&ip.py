@@ -7,9 +7,9 @@ import easygui
 # Show an input box for the user to enter the URL
 url = easygui.enterbox(msg='Enter the URL:', title='URL Input')
 
-# Check if the URL starts with 'https://' and add it if not
-if not url.startswith('https://'):
-    url = 'https://' + url
+# Check if https:// or http:// is present in the URL, if not add it
+if not re.match('(?:http|ftp|https)://', url):
+    url = 'https://{}'.format(url)
 
 # Create a new instance of the Chrome driver
 driver = webdriver.Chrome()
@@ -27,7 +27,7 @@ for request in driver.requests:
         ip = dns.resolver.resolve(website.group(1), 'A')
         ips = str()
         for ipval in ip:
-            ips+=(ipval.to_text() + '\n')
+            ips+=(ipval.to_text() + '\\\\n')
         data[website.group(1)]=ips
 
 # Convert dictionary to a pandas DataFrame
