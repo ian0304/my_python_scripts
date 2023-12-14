@@ -27,7 +27,7 @@ for request in driver.requests:
         ip = dns.resolver.resolve(website.group(1), 'A')
         ips = str()
         for ipval in ip:
-            ips+=(ipval.to_text() + '\\\\n')
+            ips+=(ipval.to_text() + '\n')
         data[website.group(1)]=ips
 
 # Convert dictionary to a pandas DataFrame
