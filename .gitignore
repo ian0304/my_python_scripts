@@ -130,3 +130,6 @@ dmypy.json
 
 #vscode config file
 .vscode/
+
+#excel file
+.xlsx
