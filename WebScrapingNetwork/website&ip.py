@@ -26,6 +26,6 @@ for request in driver.requests:
 # convert dictionary to a pandas DataFrame
 web_ip = pd.DataFrame(list(data.items()), columns=['Website', 'IP'])
 web_ip['IP'] = web_ip['IP'].astype(str)
-# write the DataFrame to an Excel file
+# write the weburl&ip to an Excel file
 web_ip.to_excel('website&ip.xlsx', index=False)
         
