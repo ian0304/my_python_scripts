@@ -133,3 +133,5 @@ dmypy.json
 
 #excel file
 *.xlsx
+
+.ds_store
