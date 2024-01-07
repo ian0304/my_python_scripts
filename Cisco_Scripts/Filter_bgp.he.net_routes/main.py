@@ -5,7 +5,7 @@ import netaddr
 from netaddr import IPNetwork
 
 # Regular expression to find IP addresses
-net_regex = re.compile('(\\d{1,3}\\.){3}\\d{1,3}/\\d{1,2}')
+net_regex = re.compile('(\d{1,3}\.){3}\d{1,3}/\d{1,2}')
 # Initialize empty list to store networks
 net = []
 
@@ -24,7 +24,7 @@ net = netaddr.cidr_merge(net)
 # Prepare the data to be written into the file
 write_file = []
 for line in net:
-    write_file.append(str(line)+'\\n')
+    write_file.append(str(line)+'\n')
 
 # Open a file in write mode and write the data into it
 with open('sorted.txt', 'w') as f:
