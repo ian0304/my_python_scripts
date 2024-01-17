@@ -134,4 +134,6 @@ dmypy.json
 #excel file
 *.xlsx
 
+#txt file
+*.txt
 .ds_store
