@@ -137,3 +137,6 @@ dmypy.json
 #txt file
 *.txt
 .ds_store
+
+#python notebook
+.ipynb
