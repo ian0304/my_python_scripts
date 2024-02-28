@@ -139,4 +139,4 @@ dmypy.json
 .ds_store
 
 #python notebook
-.ipynb
+*.ipynb
