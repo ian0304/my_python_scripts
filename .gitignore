@@ -141,3 +141,4 @@ dmypy.json
 #python notebook
 *.ipynb
 JupyterNotebook
+JupyterNotebook/test.ipynb
