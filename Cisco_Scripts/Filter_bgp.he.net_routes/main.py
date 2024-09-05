@@ -5,7 +5,7 @@ import netaddr
 from netaddr import IPNetwork
 
 # Regular expression to find IP addresses
-net_regex = re.compile('(\d{1,3}\.){3}\d{1,3}/\d{1,2}')
+net_regex = re.compile('(\\d{1,3}\\.){3}\\d{1,3}/\\d{1,2}')
 # Initialize empty list to store networks
 net = []
 
