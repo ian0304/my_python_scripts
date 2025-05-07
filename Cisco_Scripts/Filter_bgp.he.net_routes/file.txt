@@ -1,274 +1,741 @@
-61.173.128.0/17	Route	CHINANET Shanghai province networkChina
-61.173.0.0/17	Route	CHINANET Shanghai province networkChina
-61.173.0.0/16	Route	CHINANET Shanghai province networkChina
-61.172.0.0/16	Route	CHINANET Shanghai province networkChina
-61.171.128.0/17	Route	CHINANET Shanghai province networkChina
-61.171.0.0/17	Route	CHINANET Shanghai province networkChina
-61.171.0.0/16	Route	CHINANET Shanghai province networkChina
-61.170.64.0/18	Route	CHINANET Shanghai province networkChina
-61.170.128.0/17	Route	CHINANET Shanghai province networkChina
-61.170.0.0/18	Route	CHINANET Shanghai province networkChina
-61.169.128.0/17	Route	CHINANET Shanghai province networkChina
-61.169.0.0/17	Route	CHINANET Shanghai province networkChina
-61.169.0.0/16	Route	CHINANET Shanghai province networkChina
-61.165.128.0/17	Route	CHINANET Shanghai province networkChina
-61.165.0.0/17	Route	CHINANET Shanghai province networkChina
-61.165.0.0/16	Route	CHINANET Shanghai province networkChina
-61.152.0.0/16	Route	CHINANET Shanghai province networkChina
-61.151.238.0/23	Route	CHINANET Shanghai province networkChina
-61.151.128.0/17	Route	CHINANET Shanghai province networkChina
-61.151.0.0/17	Route	CHINANET Shanghai province networkChina
-61.151.0.0/16	Route	CHINANET Shanghai province networkChina
-58.41.0.0/17	Route	CHINANET Shanghai province networkChina
-58.41.0.0/16	Route	CHINANET Shanghai province networkChina
-58.40.0.0/16	Route	CHINANET Shanghai province networkChina
-58.38.0.0/16	Route	CHINANET Shanghai province networkChina
-58.37.0.0/16	Route	CHINANET Shanghai province networkChina
-58.36.0.0/14	Route	CHINANET Shanghai province networkChina
-58.35.128.0/17	Route	CHINANET Shanghai province networkChina
-58.35.0.0/17	Route	CHINANET Shanghai province networkChina
-58.35.0.0/16	Route	CHINANET Shanghai province networkChina
-58.34.0.0/16	Route	CHINANET Shanghai province networkChina
-58.33.218.0/24	Route	CHINANET Shanghai province networkChina
-58.33.0.0/16	Route	CHINANET Shanghai province networkChina
-58.32.128.0/17	Route	CHINANET Shanghai province networkChina
-58.32.0.0/17	Route	CHINANET Shanghai province networkChina
-58.32.0.0/16	Route	CHINANET Shanghai province networkChina
-58.32.0.0/14	Route	CHINANET Shanghai province networkChina
-222.73.252.0/23	Route	CHINANET shanghai province networkChina
-222.73.244.0/22	Route	CHINANET shanghai province networkChina
-222.73.242.0/23	Route	CHINANET shanghai province networkChina
-222.73.236.0/22	Route	CHINANET shanghai province networkChina
-222.73.126.0/23	Route	CHINANET shanghai province networkChina
-222.73.0.0/20	Route	CHINANET shanghai province networkChina
-222.73.0.0/16	Route	CHINANET shanghai province networkChina
-222.72.0.0/16	Route	CHINANET shanghai province networkChina
-222.71.0.0/16	Route	CHINANET shanghai province networkChina
-222.70.0.0/16	Route	CHINANET shanghai province networkChina
-222.69.0.0/16	Route	CHINANET shanghai province networkChina
-222.68.240.0/20	Route	CHINANET shanghai province networkChina
-222.68.0.0/16	Route	CHINANET shanghai province networkChina
-222.67.0.0/16	Route	CHINANET shanghai province networkChina
-222.66.0.0/16	Route	CHINANET shanghai province networkChina
-222.65.0.0/16	Route	CHINANET shanghai province networkChina
-222.64.0.0/16	Route	CHINANET shanghai province networkChina
-221.239.128.0/17	Route	CHINANET shanghai province networkChina
-218.83.0.0/16	Route	CHINANET Shanghai province networkChina
-218.82.0.0/16	Route	CHINANET Shanghai province networkChina
-218.81.0.0/16	Route	CHINANET Shanghai province networkChina
-218.80.64.0/18	Route	CHINANET Shanghai province networkChina
-218.80.128.0/18	Route	CHINANET Shanghai province networkChina
-218.80.0.0/16	Route	CHINANET Shanghai province networkChina
-218.79.0.0/16	Route	CHINANET Shanghai province networkChina
-218.78.212.0/23	Route	CHINANET Shanghai province networkChina
-218.78.208.0/23	Route	CHINANET Shanghai province networkChina
-218.78.128.0/17	Route	CHINANET Shanghai province networkChina
-218.78.0.0/17	Route	CHINANET Shanghai province networkChina
-218.1.72.0/24	Route	CHINANET Shanghai province networkChina
-218.1.0.0/16	Route	CHINANET Shanghai province networkChina
-202.96.224.0/19	Route	CHINANET Shanghai province networkChina
-202.96.194.0/24	Route	CHINANET Shanghai province networkChina
-202.96.192.0/19	Route	CHINANET Shanghai province networkChina
-202.96.192.0/18	Route	CHINANET Shanghai province networkChina
-202.109.72.0/23	Route	CHINANET Shanghai province networkChina
-202.109.64.0/18	Route	CHINANET Shanghai province networkChina
-202.109.0.0/18	Route	CHINANET Shanghai province networkChina
-180.175.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.172.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.171.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.170.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.169.65.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.169.146.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.169.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.9.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.8.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.7.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.6.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.5.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.4.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.33.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.31.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.30.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.3.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.29.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.28.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.27.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.26.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.254.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.25.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.24.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.2.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.17.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.16.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.15.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.14.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.13.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.12.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.11.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.10.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.1.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.168.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.167.224.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.167.162.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.167.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.166.168.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.166.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.166.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.166.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.166.0.0/15	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.160.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.159.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.155.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.154.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.88.0/23	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.86.0/23	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.76.0/22	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.72.0/22	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.72.0/21	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.153.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.0.0/22	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.0.0/21	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.153.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.152.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-180.152.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-124.78.0.0/15	Route	CHINANET Shanghai province networkChina
-124.76.0.0/15	Route	CHINANET Shanghai province networkChina
-124.75.0.0/16	Route	CHINANET Shanghai province networkChina
-124.74.52.0/24	Route	CHINANET Shanghai province networkChina
-124.74.0.0/16	Route	CHINANET Shanghai province networkChina
-116.247.96.0/19	Route	CHINANET Shanghai province networkChina
-116.247.73.0/24	Route	CHINANET Shanghai province networkChina
-116.247.64.0/19	Route	CHINANET Shanghai province networkChina
-116.247.32.0/19	Route	CHINANET Shanghai province networkChina
-116.247.224.0/19	Route	CHINANET Shanghai province networkChina
-116.247.192.0/19	Route	CHINANET Shanghai province networkChina
-116.247.160.0/19	Route	CHINANET Shanghai province networkChina
-116.247.128.0/19	Route	CHINANET Shanghai province networkChina
-116.247.128.0/17	Route	CHINANET Shanghai province networkChina
-116.247.0.0/19	Route	CHINANET Shanghai province networkChina
-116.247.0.0/17	Route	CHINANET Shanghai province networkChina
-116.246.96.0/19	Route	CHINANET Shanghai province networkChina
-116.246.64.0/19	Route	CHINANET Shanghai province networkChina
-116.246.32.0/19	Route	CHINANET Shanghai province networkChina
-116.246.224.0/19	Route	CHINANET Shanghai province networkChina
-116.246.192.0/19	Route	CHINANET Shanghai province networkChina
-116.246.160.0/19	Route	CHINANET Shanghai province networkChina
-116.246.128.0/19	Route	CHINANET Shanghai province networkChina
-116.246.1.0/24	Route	CHINANET Shanghai province networkChina
-116.246.0.0/19	Route	CHINANET Shanghai province networkChina
-116.246.0.0/16	Route	CHINANET Shanghai province networkChina
-116.246.0.0/15	Route	CHINANET Shanghai province networkChina
-116.239.96.0/19	Route	CHINANET Shanghai province networkChina
-116.239.64.0/19	Route	CHINANET Shanghai province networkChina
-116.239.32.0/19	Route	CHINANET Shanghai province networkChina
-116.239.224.0/19	Route	CHINANET Shanghai province networkChina
-116.239.192.0/19	Route	CHINANET Shanghai province networkChina
-116.239.160.0/19	Route	CHINANET Shanghai province networkChina
-116.239.128.0/19	Route	CHINANET Shanghai province networkChina
-116.239.128.0/17	Route	CHINANET Shanghai province networkChina
-116.239.0.0/19	Route	CHINANET Shanghai province networkChina
-116.239.0.0/17	Route	CHINANET Shanghai province networkChina
-116.239.0.0/16	Route	CHINANET Shanghai province networkChina
-116.238.0.0/16	Route	CHINANET Shanghai province networkChina
-116.238.0.0/15	Route	CHINANET Shanghai province networkChina
-116.237.0.0/16	Route	CHINANET Shanghai province networkChina
-116.236.69.0/24	Route	CHINANET Shanghai province networkChina
-116.236.66.0/24	Route	CHINANET Shanghai province networkChina
-116.236.6.0/24	Route	CHINANET Shanghai province networkChina
-116.236.212.0/24	Route	CHINANET Shanghai province networkChina
-116.236.0.0/16	Route	CHINANET Shanghai province networkChina
-116.236.0.0/15	Route	CHINANET Shanghai province networkChina
-116.235.0.0/16	Route	CHINANET Shanghai province networkChina
-116.234.0.0/16	Route	CHINANET Shanghai province networkChina
-116.233.0.0/16	Route	CHINANET Shanghai province networkChina
-116.232.0.0/16	Route	CHINANET Shanghai province networkChina
-116.231.0.0/16	Route	CHINANET Shanghai province networkChina
-116.230.0.0/16	Route	CHINANET Shanghai province networkChina
-116.229.27.0/24	Route	CHINANET Shanghai province networkChina
-116.229.26.0/24	Route	CHINANET Shanghai province networkChina
-116.229.26.0/23	Route	CHINANET Shanghai province networkChina
-116.229.239.0/24	Route	CHINANET Shanghai province networkChina
-116.229.0.0/19	Route	CHINANET Shanghai province networkChina
-116.229.0.0/16	Route	CHINANET Shanghai province networkChina
-116.228.0.0/16	Route	CHINANET Shanghai province networkChina
-116.228.0.0/15	Route	CHINANET Shanghai province networkChina
-116.227.128.0/17	Route	CHINANET Shanghai province networkChina
-116.227.0.0/17	Route	CHINANET Shanghai province networkChina
-116.227.0.0/16	Route	CHINANET Shanghai province networkChina
-116.226.0.0/16	Route	CHINANET Shanghai province networkChina
-116.225.128.0/19	Route	CHINANET Shanghai province networkChina
-116.225.128.0/17	Route	CHINANET Shanghai province networkChina
-116.225.0.0/17	Route	CHINANET Shanghai province networkChina
-116.224.128.0/17	Route	CHINANET Shanghai province networkChina
-116.224.0.0/17	Route	CHINANET Shanghai province networkChina
-116.192.96.0/19	Route	CHINANET Shanghai province networkChina
-116.192.64.0/19	Route	CHINANET Shanghai province networkChina
-116.192.32.0/19	Route	CHINANET Shanghai province networkChina
-116.192.224.0/19	Route	CHINANET Shanghai province networkChina
-116.192.192.0/19	Route	CHINANET Shanghai province networkChina
-116.192.160.0/20	Route	CHINANET Shanghai province networkChina
-116.192.160.0/19	Route	CHINANET Shanghai province networkChina
-116.192.128.0/19	Route	CHINANET Shanghai province networkChina
-116.192.128.0/17	Route	CHINANET Shanghai province networkChina
-116.192.0.0/19	Route	CHINANET Shanghai province networkChina
-116.192.0.0/17	Route	CHINANET Shanghai province networkChina
-114.95.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.94.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.93.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.93.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.93.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.92.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.92.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.92.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.91.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.90.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.89.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.88.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.88.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.88.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.87.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.86.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.86.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.86.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.85.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.84.128.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.84.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.84.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.83.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.82.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.81.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-114.80.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.95.144.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.90.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.88.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.87.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.82.0.0/15	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.80.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.231.36.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.231.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.80.0/20	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.64.0/18	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.63.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.62.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.61.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.60.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.59.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.58.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.253.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.250.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.226.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.215.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.177.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.155.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.152.0/24	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.128.0/18	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.230.0.0/15	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.228.0.0/17	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.227.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.226.192.0/22	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.226.188.0/22	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.226.186.0/23	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.226.0.0/16	Route	CHINANET SHANGHAI PROVINCE NETWORKChina
-101.224.0.0/13	Route	CHINANET SHANGHAI PROVINCE NETWORK
+8.128.32.0/19IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.128.32.0/20IRR ValidROA Signed and Valid	sg	100% 630/633
+8.128.48.0/20IRR ValidROA Signed and Valid	sg	100% 630/633
+8.128.64.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.64.0/21IRR ValidROA Signed and Valid	sg	100% 630/633
+8.128.72.0/21IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.128.80.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.80.0/21IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.88.0/21IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.96.0/21IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.96.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.100.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.104.0/21IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.104.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.128.108.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.129.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.129.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.129.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.130.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.130.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.131.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.132.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.132.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.132.105.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.132.106.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.132.107.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 631/633
+8.133.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.134.0.0/16IRR ValidROA Signed and Valid	ALICLOUDsg	100% 632/633
+8.134.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.134.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.134.240.0/23IRR ValidROA Signed and Valid	ALICLOUDsg	100% 630/633
+8.134.242.0/23IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.134.244.0/23IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.134.246.0/23IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.135.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.135.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.135.128.0/17IRR ValidROA Signed and Valid	Asia Pacific Network Information Centresg	100% 632/633
+8.136.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.136.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.136.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.137.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.137.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.137.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.137.133.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.137.134.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 631/633
+8.137.135.0/24IRR ValidROA Signed and Valid	sg	99% 628/633
+8.138.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.138.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.138.54.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.138.69.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.138.70.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.138.71.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 631/633
+8.138.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.139.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.139.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.139.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.140.0.0/14IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.140.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.141.192.0/22IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.141.192.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.193.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.194.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.195.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.200.0/21IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.141.200.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.201.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.202.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.203.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.204.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.205.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.206.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.141.207.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	0% 3/633
+8.142.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.144.0.0/14IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.144.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.144.0.0/16IRR ValidROA Signed and Valid	sg	100% 630/633
+8.145.0.0/16IRR ValidROA Signed and Valid	sg	99% 628/633
+8.146.0.0/15IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.146.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.146.0.0/17IRR ValidROA Signed and Valid	sg	100% 630/633
+8.146.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.147.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.147.0.0/18IRR ValidROA Signed and Valid	sg	100% 630/633
+8.147.0.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.147.64.0/18IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.147.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.147.128.0/18IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.147.192.0/18IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.148.0.0/19IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.0.0/20IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.16.0/20IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.32.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.148.33.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.148.34.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.148.35.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.148.36.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	2% 11/633
+8.148.37.0/24IRR ValidROA Signed and Valid	Asia Pacific Network Information Centresg	2% 11/633
+8.148.38.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	2% 11/633
+8.148.39.0/24IRR ValidROA Signed and Valid	sg	2% 11/633
+8.148.40.0/24IRR ValidROA Signed and Valid	sg	2% 13/633
+8.148.41.0/24IRR ValidROA Signed and Valid	sg	2% 11/633
+8.148.42.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	7% 45/633
+8.148.43.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	2% 11/633
+8.148.64.0/19IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.64.0/20IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.80.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+8.148.96.0/19IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.96.0/20IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.112.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+8.148.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.128.0/18IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.148.169.0/24IRR ValidROA Signed and Valid	sg	99% 628/633
+8.148.192.0/18IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.149.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.149.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.149.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.150.0.0/22IRR ValidROA Signed and Valid	Ant Group CO., Ltdsg	100% 632/633
+8.150.0.0/23IRR ValidROA Signed and Valid	Ant Group CO., Ltdsg	100% 632/633
+8.150.2.0/23IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.4.0/22IRR ValidROA Signed and Valid	Ant Group CO., Ltdsg	100% 632/633
+8.150.4.0/23IRR ValidROA Signed and Valid	Ant Group CO., Ltdsg	100% 632/633
+8.150.6.0/23IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.8.0/21IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.8.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.12.0/22IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.64.0/23IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.64.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.150.65.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.152.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.152.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 630/633
+8.152.75.0/24IRR ValidROA Signed and Valid	sg	99% 628/633
+8.152.128.0/17IRR ValidROA Signed and Valid	Asia Pacific Network Information Centresg	99% 628/633
+8.152.180.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.152.181.0/24IRR ValidROA Signed and Valid	sg	100% 631/633
+8.153.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.153.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.153.116.0/24IRR ValidROA Signed and Valid	sg	99% 628/633
+8.153.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	99% 628/633
+8.154.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.154.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.154.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.155.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.155.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.155.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.155.196.0/24IRR ValidROA Signed and Valid	sg	99% 628/633
+8.155.198.0/24IRR ValidROA Signed and Valid	sg	100% 632/633
+8.155.199.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 631/633
+8.156.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.156.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.156.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.157.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.157.0.0/17IRR ValidROA Signed and Valid	sg	100% 632/633
+8.157.128.0/17IRR ValidROA Signed and Valid	sg	100% 632/633
+8.158.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.158.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co.LTDsg	100% 632/633
+8.158.128.0/17IRR ValidROA Signed and Valid	sg	100% 632/633
+8.159.0.0/16IRR ValidROA Signed and Valid	sg	100% 632/633
+8.159.0.0/17IRR ValidROA Signed and Valid	sg	100% 630/633
+8.159.128.0/17IRR ValidROA Signed and Valid	sg	100% 630/633
+8.160.0.0/15IRR ValidROA Signed and Valid	sg	100% 632/633
+8.160.0.0/16IRR ValidROA Signed and Valid	sg	100% 630/633
+8.161.0.0/16IRR ValidROA Signed and Valid	sg	100% 630/633
+8.162.0.0/19IRR ValidROA Signed and Valid	sg	100% 632/633
+8.162.0.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+8.162.16.0/20IRR ValidROA Signed and Valid	sg	100% 632/633
+39.96.0.0/13IRR Valid	Aliyun Computing Co., LTDcn	99% 629/633
+39.96.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+39.100.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+39.104.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+39.104.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+39.106.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+39.108.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+39.108.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+39.108.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.96.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.96.128.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+42.96.192.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+42.96.238.0/24IRR Parent Valid	cn	0% 3/633
+42.96.239.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.120.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.120.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.120.128.0/17IRR Parent Valid	Taobaocn	100% 632/633
+42.120.248.0/24IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+42.121.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.121.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.121.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.156.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+42.156.128.0/18IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+42.156.192.0/18IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+45.113.40.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+45.113.40.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+45.113.42.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+47.92.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.92.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.94.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.96.0.0/14IRR Valid	American Registry for Internet Numberscn	100% 632/633
+47.96.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.96.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.96.204.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.97.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.98.0.0/15IRR Valid	American Registry for Internet Numberscn	100% 630/633
+47.100.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.100.0.0/15IRR Parent Valid	ALISOFTcn	99% 628/633
+47.102.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.104.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.104.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.105.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.106.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.106.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.107.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.108.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.108.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.108.108.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.109.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.109.0.0/23IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.110.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.110.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.111.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.112.0.0/15IRR ValidROA Signed and Valid	American Registry for Internet Numberscn	100% 632/633
+47.112.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.113.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.114.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.114.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.114.16.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.114.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.115.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.115.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.115.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.116.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.116.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.116.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.117.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.117.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.117.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.117.248.0/21IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.117.248.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+47.117.249.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.117.252.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.117.253.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.117.254.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.117.255.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.118.0.0/17IRR Valid	ALISOFTcn	100% 632/633
+47.118.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.118.144.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.118.144.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.145.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+47.118.160.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.118.160.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+47.118.161.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.162.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.163.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.168.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.169.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.170.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.171.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.172.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.173.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.174.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.118.175.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+47.119.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.119.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.119.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.120.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.120.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.121.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.0.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.0.0/20IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.122.16.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.32.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.32.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.48.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.64.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.64.0/20IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+47.122.80.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.96.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.96.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.112.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.128.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.128.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.144.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.160.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.160.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.176.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.192.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.122.192.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.208.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.122.224.0/19IRR Valid	cn	100% 632/633
+47.122.224.0/20IRR Valid	cn	100% 632/633
+47.122.240.0/20IRR Valid	cn	100% 632/633
+47.123.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.123.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+47.123.23.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+47.123.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+59.82.0.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.0.0/22IRR Valid	ALIBABA-CN-NETcn	100% 632/633
+59.82.2.0/24IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.4.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.8.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.8.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.12.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.16.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.16.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 627/633
+59.82.24.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.32.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.32.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.40.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.48.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.48.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.52.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.56.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.56.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.60.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.64.0/19IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.64.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.80.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.96.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.96.0/23IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.98.0/23IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.104.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.104.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.108.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.112.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.112.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.120.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.124.0/24IRR Valid	cn	100% 632/633
+59.82.128.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+59.82.128.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+59.82.132.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+59.82.136.0/23IRR ValidROA Signed and Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	8% 48/633
+59.110.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+59.110.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+59.110.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+60.205.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+60.205.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+60.205.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+60.205.133.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+101.37.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.37.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.37.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.132.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.132.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+101.133.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+101.133.201.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.200.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+101.200.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+101.201.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+103.52.196.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+103.52.196.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+103.52.198.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+106.11.0.0/16IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.0.0/19IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.1.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.32.0/22IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+106.11.36.0/22IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.40.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+106.11.48.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.56.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.64.0/19IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.128.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.144.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.160.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.176.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.184.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.192.0/23IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.194.0/23IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.196.0/23IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.198.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.199.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.200.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.201.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.202.0/23IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.204.0/22IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+106.11.208.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.216.0/21IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.11.224.0/19IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+106.11.235.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+106.14.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+106.14.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+106.15.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+110.75.0.0/16IRR Valid	Asia Pacific Network Information Center, Pty. Ltd.	100% 632/633
+110.75.0.0/17IRR ValidROA Signed and Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+110.75.128.0/17IRR Parent Valid	Asia Pacific Network Information Centre	100% 632/633
+110.75.128.0/19IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.75.138.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.160.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+110.75.192.0/19IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+110.75.224.0/19IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.75.227.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.228.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.230.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.233.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.235.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.75.236.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.75.240.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.0.0/19IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.0.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.0.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.2.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.2.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.3.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.4.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.4.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.5.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.6.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	99% 628/633
+110.76.7.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.8.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.8.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	99% 628/633
+110.76.10.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.12.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.12.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.13.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.15.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.16.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.16.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.17.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.19.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.20.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.21.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	2% 12/633
+110.76.22.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.23.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	2% 11/633
+110.76.24.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.26.0/24IRR Valid	cn	100% 632/633
+110.76.27.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.30.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.76.32.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+110.76.48.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.56.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+110.76.60.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+110.173.192.0/19IRR Valid	Taobaocn	100% 630/633
+110.173.192.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+110.173.196.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+110.173.208.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+112.74.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.74.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+112.74.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.124.0.0/14IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 630/633
+112.124.0.0/16IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.124.0.0/17IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.124.128.0/17IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.124.209.0/24IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	99% 628/633
+112.125.0.0/16IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	99% 628/633
+112.126.0.0/16IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.126.0.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	99% 628/633
+112.126.128.0/17IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 630/633
+112.127.0.0/16IRR ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.127.0.0/17IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+112.127.128.0/17IRR Parent ValidROA Signed and Valid	Aliyun Computing Co., LTDcn	100% 632/633
+114.55.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+114.55.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+114.55.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+114.215.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+114.215.0.0/18IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+114.215.64.0/18IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+114.215.96.0/19IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+114.215.128.0/19IRR Valid	Aliyun Computing Co., LTDcn	99% 626/633
+114.215.160.0/21IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+114.215.164.0/22IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+114.215.220.0/22IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.28.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.28.0.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.28.64.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.28.128.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.28.192.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.29.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+115.29.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+115.29.32.0/19IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.29.64.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.29.72.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.29.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+115.29.128.0/19IRR Parent Valid	Aliyun Computing Co., LTDcn	99% 628/633
+115.124.16.0/20IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+115.124.16.0/22IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+115.124.20.0/22IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+115.124.24.0/21IRR Parent Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+116.62.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+116.62.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+116.62.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+118.31.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.31.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+118.31.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+118.31.200.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.31.201.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.31.206.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 631/633
+118.178.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.178.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.178.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.190.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+118.190.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+118.190.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+119.23.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+119.23.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+119.23.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+119.38.208.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+119.38.208.0/21IRR Parent Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+119.38.216.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+119.38.219.0/24IRR Parent Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+119.42.224.0/19IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.224.0/22IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.228.0/23IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.228.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.229.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.230.0/23IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.230.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 630/633
+119.42.231.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 630/633
+119.42.232.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 630/633
+119.42.234.0/24IRR Valid	Alibaba (China) Technology Co., Ltd.cn	100% 632/633
+119.42.240.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.240.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.241.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.242.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.242.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+119.42.243.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+119.42.248.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.250.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+119.42.250.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+119.42.251.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+120.24.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.24.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.24.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.25.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.26.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+120.27.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.0.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.64.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.79.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.128.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.27.192.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.55.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.55.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.55.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.76.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.76.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.76.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.76.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.77.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.77.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.77.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.77.193.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.78.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.78.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+120.79.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.0.16.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+121.0.16.0/21IRR Parent Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+121.0.24.0/22IRR Parent Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+121.0.28.0/22IRR Parent Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+121.40.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.40.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.0.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.64.0/18IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.42.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.43.0.0/16	Aliyun Computing Co., LTDcn	0% 1/633
+121.89.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.89.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+121.89.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+121.196.0.0/14IRR Valid	ALISOFTcn	100% 632/633
+121.196.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.197.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.198.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+121.199.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+123.56.0.0/15IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+123.56.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+123.57.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+139.129.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+139.129.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+139.129.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+139.196.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+139.196.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+139.196.128.0/17IRR Valid	Asia Pacific Network Information Centrecn	100% 630/633
+139.224.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+139.224.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+139.224.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+140.205.0.0/16IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+140.205.0.0/19IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 632/633
+140.205.1.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	0% 3/633
+140.205.32.0/19IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+140.205.64.0/18IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 629/633
+140.205.76.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	100% 630/633
+140.205.122.0/24IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	1% 6/633
+140.205.128.0/18IRR Valid	Zhejiang Taobao Network Co.,Ltdcn	99% 628/633
+140.205.192.0/18IRR Valid	Asia Pacific Network Information Centrecn	99% 629/633
+182.92.0.0/16IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+182.92.0.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+182.92.128.0/17IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+182.92.252.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.1.0/24IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+203.107.6.0/24IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+203.107.13.0/24IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+203.107.20.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.21.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.22.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.23.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.24.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.26.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.28.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.30.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.32.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.32.0/21IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.32.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.32.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.33.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.36.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.36.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.37.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.38.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.39.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.40.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.40.0/23IRR Valid	Aliyun Computing Co., LTDcn	99% 628/633
+203.107.40.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.41.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.42.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.42.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.43.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.44.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.44.0/23IRR Valid	ALISOFTcn	100% 630/633
+203.107.44.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.45.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.46.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.46.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.47.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.48.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.48.0/23IRR Valid	Aliyun Computing Co., LTDcn	18% 111/633
+203.107.48.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.49.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.50.0/23IRR Valid	Aliyun Computing Co., LTDcn	18% 111/633
+203.107.50.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.51.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.52.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.52.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.52.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.53.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.54.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.54.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.55.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.56.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.56.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.56.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.57.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.58.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.58.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.59.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.60.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.60.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.60.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.61.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.62.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.62.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.63.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.72.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.73.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.74.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.75.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.76.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.77.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.78.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.79.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.80.0/21IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.80.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.80.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.80.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.81.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.82.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.82.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.83.0/24IRR Valid	Aliyun Computing Co., LTDcn	2% 13/633
+203.107.84.0/22IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.84.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.84.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+203.107.85.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+203.107.86.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.86.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+203.107.87.0/24IRR Valid	Aliyun Computing Co., LTDcn	0% 3/633
+203.107.96.0/23IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+203.107.100.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.101.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.102.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.103.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.104.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.105.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.106.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.107.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.108.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.107.109.0/24IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+203.119.128.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.128.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.144.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.152.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.152.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.156.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+203.119.160.0/24IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.168.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.168.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+203.119.172.0/22IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.176.0/20IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.176.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.184.0/21IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.119.192.0/18IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 632/633
+203.119.192.0/19IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	99% 628/633
+203.119.224.0/19IRR Valid	Hangzhou Alibaba Advertising Co.,Ltd.cn	100% 630/633
+203.209.224.0/19IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.224.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.224.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+203.209.225.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+203.209.226.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.228.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.232.0/21IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+203.209.236.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 630/633
+203.209.240.0/20IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.242.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.244.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.244.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	99% 628/633
+203.209.246.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	99% 628/633
+203.209.248.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.248.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.249.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.250.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.250.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.251.0/24IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.252.0/22IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.252.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+203.209.254.0/23IRR Valid	Zhejiang Ant Small And Micro Financial Servicescn	100% 632/633
+218.244.128.0/19IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+218.244.128.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+218.244.144.0/20IRR Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.4.0.0/14IRR Valid	Aliyun Computing Co., LTDcn	100% 630/633
+223.4.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+223.4.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.4.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.4.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+223.5.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.5.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.5.5.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	2% 12/633
+223.5.128.0/17IRR Parent Valid	cn	100% 632/633
+223.6.0.0/15IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 630/633
+223.6.0.0/16IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.6.0.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	100% 632/633
+223.6.6.0/24IRR Parent Valid	Aliyun Computing Co., LTDcn	2% 12/633
+223.6.128.0/17IRR Parent Valid	Aliyun Computing Co., LTDcn	
